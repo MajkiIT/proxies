@@ -1,11 +1,14 @@
 
 # PROXIES
 🔍 Check out this list of free, scraped public proxies
+
 🔧 Updated regularly
+
 🙌 All the proxies are checked before being posted
 
 📆 Last Updated: `Monday 00-00-0000 00:00:00 UTC`
-🔥 Total Proxies: `5995`
+
+🔥 Total Proxies: `0`
 
 ## DOWNLOAD
 
@@ -30,4 +33,5 @@ Please give credits, stars and follow if you use any of my proxies.
 ## CONTACT
 
  For Any Queries:
+ 
         Ping Me : [LinkedIn](https://www.linkedin.com/in/ercindedeoglu/)
