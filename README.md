@@ -32,6 +32,5 @@ Please give credits, stars and follow if you use any of my proxies.
 
 ## CONTACT
 
- For Any Queries:
- 
+ For Any Queries:  
         Ping Me : [LinkedIn](https://www.linkedin.com/in/ercindedeoglu/)
