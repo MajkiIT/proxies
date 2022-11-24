@@ -12,19 +12,19 @@
 
 ## DOWNLOAD
 
-### 🔌 For SOCKS4
+### 🔌 For [SOCKS4](https://raw.githubusercontent.com/ErcinDedeoglu/proxies/main/proxies/socks4.txt)
 
 ```curl https://raw.githubusercontent.com/ErcinDedeoglu/proxies/main/proxies/socks4.txt -o socks4.txt```
 
-### 🔌 For SOCKS5
+### 🔌 For [SOCKS5](https://raw.githubusercontent.com/ErcinDedeoglu/proxies/main/proxies/socks5.txt)
 
 ```curl https://raw.githubusercontent.com/ErcinDedeoglu/proxies/main/proxies/socks5.txt -o socks5.txt```
 
-### 🌏 For HTTP
+### 🌏 For [HTTP](https://raw.githubusercontent.com/ErcinDedeoglu/proxies/main/proxies/http.txt)
 
 ```curl https://raw.githubusercontent.com/ErcinDedeoglu/proxies/main/proxies/http.txt -o http.txt```
 
-### 🌏 For HTTPS
+### 🌏 For [HTTPS](https://raw.githubusercontent.com/ErcinDedeoglu/proxies/main/proxies/https.txt)
 
 ```curl https://raw.githubusercontent.com/ErcinDedeoglu/proxies/main/proxies/https.txt -o https.txt```
 
