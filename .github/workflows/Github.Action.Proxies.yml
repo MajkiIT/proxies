@@ -1,4 +1,4 @@
-name: 'Run DublokSoftware/action-proxies'
+name: 'Run DublokSoftware/Github.Action.Proxies'
 
 on:
   schedule:
@@ -20,7 +20,7 @@ jobs:
     - name: Check out repository
       uses: actions/checkout@v3
       with:
-        repository: DublokSoftware/action-proxies
+        repository: DublokSoftware/Github.Action.Proxies
         ref: main
         token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
         path: ./.github/repository
