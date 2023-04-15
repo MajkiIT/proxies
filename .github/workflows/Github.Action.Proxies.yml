@@ -25,4 +25,3 @@ jobs:
       run: |
         docker pull dublok/github.action.proxies:latest &&
         docker run --rm dublok/github.action.proxies:latest
-	  
