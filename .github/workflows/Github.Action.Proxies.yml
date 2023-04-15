@@ -23,6 +23,6 @@ jobs:
 
     - name: Pull and Run
       run: |
-        docker pull dublok/github.action.proxies:latest
+        docker pull dublok/github.action.proxies:latest &&
         docker run --rm dublok/github.action.proxies:latest
 	  
